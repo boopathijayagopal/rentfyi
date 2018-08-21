@@ -1,1 +1,1 @@
-# rentify
+# rentfyi
